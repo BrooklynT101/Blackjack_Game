@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/card-game/', // The base path for your project
+  base: '/Blackjack_Game/', // The base path for your project
 })
